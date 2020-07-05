@@ -11,9 +11,9 @@ sections:
   match: "**/*"
   templates:
   - work
-upload_dir: public
-public_path: '/'
-front_matter_path: '/'
+upload_dir: public/static
+public_path: 'static/'
+front_matter_path: '../static'
 use_front_matter_path: false
 file_template: ":filename:"
 build:
