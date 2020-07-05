@@ -1,2 +1,6 @@
+---
 title: Home
 works:
+- works/test.md
+- works/test-2.md
+name: Home

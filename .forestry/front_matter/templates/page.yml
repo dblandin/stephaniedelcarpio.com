@@ -17,3 +17,5 @@ fields:
       type: pages
       section: works
   label: Works
+pages:
+- data/pages/home.yml
