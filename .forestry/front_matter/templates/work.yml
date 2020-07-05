@@ -8,3 +8,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- works/test-2.md
